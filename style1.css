@@ -29,7 +29,7 @@ body {
     box-shadow: -3px 0px 5px 0px rgba(0, 0, 0, 0.8);
     right: -130px;
     transition: all 0.3s;
-    color: #222;
+    color: #555;
     opacity: 1;
 }
 .menu:hover, .menu:focus {
